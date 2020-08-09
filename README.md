@@ -21,7 +21,7 @@ GCC (g++) compiler.
 `$ ./airport_sim <Move Time By (int) Time-units>`
 
 ## Author
-Vasilis Panagakis
+Vassilis Panagakis
 
 ## Date
 December 2017
